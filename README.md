@@ -3,18 +3,6 @@
 This respository contains all code, data, and files related to my work in the Springboard Data Science Career Track. Below is a table of contents for the work I did, with a brief description of the each respective work cited.
 
 ----
-
-# Capstone 1:
-## Prediction of skin cancer using images from the HAM10000 dataset
-I classified images of skin conditions to one of seven possible diagnoses using patient information and image features extracted with VGG16.
-
-Key skills:
-* Use of VGG as an image feature extractor.
-* Hyperparameter optimization.
-* Implementing scikit-learn and custom-built Keras classification models.
-* Imputing missing values with RandomForest.
-
-----
 # Mini Projects
 ## Data acquisition:
 ### JSON
